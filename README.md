@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan Chamorro</h1>
 <h3 align="center">A passionate Full Stack developer from Ecuador</h3>
 
-- 🔭 I’m currently working on **Asistant on BairesDev project PPS**
+- 🔭 I’m currently working ** on BairesDev project PPS**
 
 - 🌱 I’m currently learning **Deno, Rust, encryption, code improvement techniques.**
 
